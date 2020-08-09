@@ -3,7 +3,7 @@ Machine Learning model for breast cancer detection upon providing features for t
 
 It is an online Heroku application(http://codexmait.herokuapp.com/)
 
-##Uses two models to predict the result(Benign or Malignant)
+# Uses two models to predict the result
 
  Decision Tree
  
