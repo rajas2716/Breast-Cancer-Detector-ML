@@ -5,7 +5,9 @@ It is an online Heroku application(http://codexmait.herokuapp.com/)
 
 # Uses two models to predict the result
 
- Decision Tree
+
+ Random forest
  
  Linear Regression
+
 
